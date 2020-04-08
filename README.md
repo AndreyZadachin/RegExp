@@ -1,3 +1,5 @@
-# AndreyZadachin.github.io
+## https://AndreyZadachin.github.io
 ======
-версия 0.0.1
+### Yandex.Praktikum Sprint №10
+#### version v0.0.2
+##### Regular expression, bash and GitHub
