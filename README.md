@@ -1,5 +1,15 @@
-## https://AndreyZadachin.github.io
+# Regular expression
+
+## https://AndreyZadachin.github.io/RegExp
+
 ======
-### Yandex.Praktikum Sprint №10
+
+### Форма регистрации с валидацией данных пользователя при помощи шаблона регулярного выражения. Проект выполнялся в рамках обучения на курсах Фронтенд-разработки Яндекс.Практикум.
+
 #### version v0.0.2
-##### Regular expression, bash and GitHub
+
+Используемые технологии:
+
+- HTML5
+- CSS3
+- Regular expression
